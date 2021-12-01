@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  password_digest: MyString
+  ngaysinh: 2021-12-01
+  sdt: 1
+
+two:
+  email: MyString
+  password_digest: MyString
+  ngaysinh: 2021-12-01
+  sdt: 1
